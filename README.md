@@ -78,3 +78,24 @@ Artificial Intelligence | Machine Learning | Generative AI | Web Development
 
 ⭐ *Code. Learn. Build. Innovate.*
 
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushji850-ai&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushji850-ai&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushji850-ai&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 💻 My Developer Journey
+
+<p align="center">
+  <b>Code • Learn • Build • Innovate</b>
+</p>
